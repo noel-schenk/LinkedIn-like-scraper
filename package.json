@@ -1,0 +1,14 @@
+{
+    "dependencies": {
+        "puppeteer": "^13.0.0",
+        "rxjs": "^7.4.0"
+    },
+    "devDependencies": {
+        "@types/puppeteer": "^5.4.4",
+        "ts-node": "^10.4.0",
+        "typescript": "^4.5.4"
+    },
+    "prettier": {
+        "singleQuote": true
+    }
+}
